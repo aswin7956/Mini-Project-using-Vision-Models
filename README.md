@@ -23,10 +23,7 @@ This project explores the application of large vision models for the classificat
 ```bash
 git clone https://github.com/aswin7956/Mini-Project-using-Vision-Models.git
 ```
-2. Install the required dependencies (update this based on specific libraries):
-```bash
-pip install -r requirements.txt
-```
+2. Run the notebook you want to test out
 
 ### License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
